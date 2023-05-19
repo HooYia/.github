@@ -1,3 +1,4 @@
 # .github
 NO LIMIT IN MIND
-![logo mo](https://github.com/HooYia/.github/assets/81464575/4187d92f-2ace-444d-b3db-aba50af360f2)
+![logo_mo-removebg-preview (1)](https://github.com/HooYia/.github/assets/81464575/a3f81db4-a300-4f7d-b411-b8839cc40040)
+
