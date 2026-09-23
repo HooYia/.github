@@ -51,6 +51,7 @@ intentions :
 |---|---|
 | `tech-leads` | Revue et approbation des Pull Requests |
 | `devbackend` | Développement backend et architecture |
+| `devfrontend` | Développement frontend |
 | `internproject` | Stagiaires et projets d'apprentissage |
 
 ## 💻 Stack principale
