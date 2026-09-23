@@ -2,46 +2,71 @@
 
 # HooYia
 
-### No Limit In Mind — Digital Engineering
+### No Limit In Mind
 
 [![Website](https://img.shields.io/badge/website-hooyia.net-F5821F?style=flat-square)](https://hooyia.net)
-[![Flagship](https://img.shields.io/badge/flagship-Hoolearn-0E1E3D?style=flat-square)](https://hoolearn.net)
 
 </div>
 
 ---
 
-## 👋 À propos
+## 👋 Qui sommes-nous
 
 HooYia est un studio d'ingénierie logicielle basé au Cameroun. Nous
 concevons et opérons des plateformes SaaS, des outils IA/ML et des
-marketplaces numériques — de la première ligne de code jusqu'à
-l'infrastructure qui les fait tourner en production.
+marketplaces numériques.
 
-## 🚀 Projet phare : Hoolearn
+**No Limit In Mind** n'est pas qu'une signature — c'est notre façon de
+travailler : partir de problèmes réels, construire des produits qui
+durent, et ne jamais considérer une limite comme définitive.
 
-**[Hoolearn](https://hoolearn.net)** est notre plateforme e-learning en
-production, avec paiements réels (Stripe, PayPal, Flutterwave) et une
-infrastructure AWS entièrement pilotée par Terraform.
+## 🧭 Nos piliers
 
-| Dépôt | Rôle |
-|---|---|
-| [`elearning-hooyia`](https://github.com/HooYia/elearning-hooyia) | Application Django |
-| [`elearning-infrastructure`](https://github.com/HooYia/elearning-infrastructure) | Infrastructure AWS (Terraform) |
+```mermaid
+mindmap
+  root((HooYia))
+    SaaS
+      Plateformes multi-tenant
+      Produits propriétaires
+    IA / ML
+      Outils d'automatisation
+      Agents intelligents
+    Marketplaces
+      Places de marché numériques
+      Paiements & logistique
+```
+
+## 🚀 Notre trajectoire
+
+Une ambition, pensée sur la durée — pas des promesses, une direction.
+
+```mermaid
+timeline
+    title No Limit In Mind — notre trajectoire
+    2026 : Standards d'ingénierie unifiés sur nos produits actifs
+         : CI/CD, sécurité et infrastructure as code comme fondation
+    2028 : Produits SaaS propriétaires en croissance
+         : Premières plateformes IA/ML en production
+    2030 : Présence renforcée à l'échelle du continent
+         : Équipe d'ingénierie élargie, culture produit affirmée
+    2033 : Portefeuille de produits matures et rentables
+         : HooYia reconnu comme studio d'ingénierie de référence
+    2036 : No Limit In Mind, pleinement vécu
+         : Des idées camerounaises, une empreinte mondiale
+```
 
 ## 🛠️ Comment on travaille
 
 Nos dépôts actifs suivent un même standard, pas juste des bonnes
 intentions :
 
-- **Revue obligatoire** — aucune fusion sur `main` sans 2 approbations de
+- **Revue obligatoire** — aucune fusion sur `main` sans approbation de
   l'équipe technique (`CODEOWNERS` + règles de branche)
 - **CI complète** — lint, types, tests, et scan de sécurité (SAST,
   dépendances, secrets, image conteneur, IaC) sur chaque Pull Request ;
   toute faille détectée ouvre une issue et bloque la fusion
 - **Déploiement traçable** — versions sémantiques automatiques, chaque
-  déploiement et rollback est un geste explicite et journalisé, jamais
-  une surprise
+  déploiement et rollback est un geste explicite et journalisé
 - **Infrastructure as Code** — tout changement d'infrastructure passe
   par un plan Terraform relu avant d'être appliqué
 
@@ -62,6 +87,6 @@ Python · Django · Terraform · AWS · GitHub Actions · PostgreSQL
 
 <div align="center">
 
-*Merci de votre visite — on construit ça sérieusement.*
+*No Limit In Mind.*
 
 </div>
